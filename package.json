@@ -1,0 +1,16 @@
+{
+  "name": "full-stack-advance",
+  "version": "1.0.0",
+  "description": "A backed at Ningsang Jabegu Foundation - Personal Website",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Ningsang Jabegu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
